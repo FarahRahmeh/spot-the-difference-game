@@ -73,6 +73,19 @@ A desktop game built with **WinForms (C#)** and **Emgu.CV** that challenges play
 - **Image Processing**: Emgu.CV  
 - **Audio**: System.Media.SoundPlayer
 
+
+## 🧪 Example Screenshot
+
+Here is a sample screenshot of the game interface:
+
+![Spot the Difference Screenshot](info/sample.png)
+
+## Project Report
+
+This project is part of my college coursework (multimedia).  
+You can find the detailed project report here:  
+[Download the Project Report (PDF)](info/spotthedifferencegameReport.pdf)
+
 ---
 
 ## 📄 License
