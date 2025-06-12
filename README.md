@@ -83,7 +83,7 @@ Here is a sample screenshot of the game interface:
 ## Project Report
 
 This project is part of my college coursework (multimedia).  
-You can find the detailed project report here:  
+You can find the detailed project report (in Arabic) here:  
 [Download the Project Report (PDF)](info/spotthedifferencegameReport.pdf)
 
 ---
